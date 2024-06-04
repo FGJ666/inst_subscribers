@@ -1,4 +1,4 @@
-# README for Instagram Subscriptions and Followers Comparison Script
+# Instagram Subscriptions and Followers Comparison Script
 
 ## Overview
 
