@@ -23,19 +23,6 @@ Before running the script, ensure you have the following installed:
     ```bash
     pip install pandas numpy instaloader
     ```
-    
-## Usage
-
-1. **Run the script:**
-
-    ```bash
-    python your_script_name.py
-    ```
-
-2. **Enter your Instagram credentials and the target profile username when prompted.**
-
-3. **The script will generate a CSV file named `clean_data.csv` containing the followees that are not followers.**
-
 ## Notes
 
 - Ensure your Instagram credentials are correct and that you have permission to access the target profile's data.
