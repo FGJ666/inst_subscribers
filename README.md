@@ -34,7 +34,7 @@ Before running the script, ensure you have the following installed:
 
 2. **Enter your Instagram credentials and the target profile username when prompted.**
 
-3. **The script will generate a CSV file named `clean_alsu.csv` containing the followees that are not followers.**
+3. **The script will generate a CSV file named `clean_data.csv` containing the followees that are not followers.**
 
 ## Notes
 
